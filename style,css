@@ -1,6 +1,22 @@
+/* style.css */
 body {
   background-color: #f0f8ff;
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
   text-align: center;
-  margin-top: 50px;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 3em;
+  color: #0077cc;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: auto;
+  color: #444;
 }
